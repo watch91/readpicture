@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReadPicture"
+  short_description: "通过命令行调用智谱视觉模型描述本地或网络图片，供没有识图能力的 Agent 使用"
+  default_prompt: "Use $readpicture to describe the image the user wants understood (local path or URL)."
